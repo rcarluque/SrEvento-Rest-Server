@@ -1,4 +1,4 @@
 # servidor-rest-eventos
-Creación de un servidor REST usando Slim Framework que almacena, muestra, edita y elimina eventos
+Servidor REST basado en Slim Framework que almacena, muestra, edita y elimina Acontecimientos de una agenda cultural y sus eventos
 
-Instalar Slim Framework
+Requiere instalar anteriormente Slim Framework
